@@ -1,0 +1,20 @@
+img {
+    width: 100%;
+    height: auto;
+}
+h1 {
+    font-size:5vw;
+    padding: 15px;
+    background-color: #d9f2ff;
+}
+p {
+    font-size:2vw; padding: 10px;
+}
+h2 {
+    font-size: 3vw;
+    background-color: #e6ffe6;
+    padding : 10px;
+}
+.body {
+    background-color: #ffffff;
+}
